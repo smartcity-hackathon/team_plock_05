@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12322, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ProjectCurves
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: easeInOutBack
+    m_Curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0024084449
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19990121
+        value: -0.107920185
+        inSlope: 0.03468293
+        outSlope: 0.03468293
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.60360926
+        value: 1.0954673
+        inSlope: -0.036613595
+        outSlope: -0.036613595
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: 1.0024071
+        inSlope: -0.20588872
+        outSlope: -0.20588872
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 04d93a96d8ac877449e450d9fdc423fc
+timeCreated: 1496142984
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Calendas Plus
+  fontNames:
+  - Calendas Plus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

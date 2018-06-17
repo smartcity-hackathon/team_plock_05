@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: 8b10321b758dca247b83e996ae4dd140
+timeCreated: 1529200810
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f0ea6dece799c22508d903b64a691aee
+  longitude: 19.689613580703732
+  latitude: 52.54098449683268
+  northCorrection: 358.9596467391738
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -122.00675, y: 37.311394, z: -62.006935}
+      lookAt: {x: -42.59716, y: 28.788177, z: -21.242968}
+      up: {x: 0.08456274, y: 0.9954722, z: 0.04340928}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Group 10
+    100002: Group 100
+    100004: Group 102
+    100006: Group 104
+    100008: Group 106
+    100010: Group 108
+    100012: Group 110
+    100014: Group 112
+    100016: Group 114
+    100018: Group 116
+    100020: Group 118
+    100022: Group 12
+    100024: Group 120
+    100026: Group 122
+    100028: Group 124
+    100030: Group 126
+    100032: Group 128
+    100034: Group 130
+    100036: Group 132
+    100038: Group 134
+    100040: Group 136
+    100042: Group 137
+    100044: Group 139
+    100046: Group 14
+    100048: Group 141
+    100050: Group 143
+    100052: Group 145
+    100054: Group 146
+    100056: Group 148
+    100058: Group 150
+    100060: Group 152
+    100062: Group 154
+    100064: Group 156
+    100066: Group 157
+    100068: Group 159
+    100070: Group 16
+    100072: Group 161
+    100074: Group 163
+    100076: Group 165
+    100078: Group 166
+    100080: Group 168
+    100082: Group 170
+    100084: Group 172
+    100086: Group 174
+    100088: Group 176
+    100090: Group 178
+    100092: Group 18
+    100094: Group 180
+    100096: Group 182
+    100098: Group 184
+    100100: Group 186
+    100102: Group 188
+    100104: Group 190
+    100106: Group 192
+    100108: Group 194
+    100110: Group 196
+    100112: Group 198
+    100114: Group 20
+    100116: Group 200
+    100118: Group 202
+    100120: Group 204
+    100122: Group 206
+    100124: Group 208
+    100126: Group 210
+    100128: Group 212
+    100130: Group 214
+    100132: Group 216
+    100134: Group 218
+    100136: Group 22
+    100138: Group 220
+    100140: Group 222
+    100142: Group 224
+    100144: Group 226
+    100146: Group 228
+    100148: Group 230
+    100150: Group 24
+    100152: Group 26
+    100154: Group 28
+    100156: Group 30
+    100158: Group 32
+    100160: Group 34
+    100162: Group 36
+    100164: Group 38
+    100166: Group 40
+    100168: Group 42
+    100170: Group 44
+    100172: Group 46
+    100174: Group 48
+    100176: Group 50
+    100178: Group 52
+    100180: Group 54
+    100182: Group 56
+    100184: Group 58
+    100186: Group 6
+    100188: Group 60
+    100190: Group 62
+    100192: Group 64
+    100194: Group 66
+    100196: Group 68
+    100198: Group 70
+    100200: Group 72
+    100202: Group 74
+    100204: Group 76
+    100206: Group 78
+    100208: Group 8
+    100210: Group 80
+    100212: Group 82
+    100214: Group 84
+    100216: Group 86
+    100218: Group 88
+    100220: Group 90
+    100222: Group 92
+    100224: Group 94
+    100226: Group 96
+    100228: Group 98
+    100230: Komponent#1
+    100232: Komponent#1 1
+    100234: Komponent#1 2
+    100236: Komponent#1 3
+    100238: Komponent#1 4
+    100240: Location Terrain
+    100242: //RootNode
+    400000: Group 10
+    400002: Group 100
+    400004: Group 102
+    400006: Group 104
+    400008: Group 106
+    400010: Group 108
+    400012: Group 110
+    400014: Group 112
+    400016: Group 114
+    400018: Group 116
+    400020: Group 118
+    400022: Group 12
+    400024: Group 120
+    400026: Group 122
+    400028: Group 124
+    400030: Group 126
+    400032: Group 128
+    400034: Group 130
+    400036: Group 132
+    400038: Group 134
+    400040: Group 136
+    400042: Group 137
+    400044: Group 139
+    400046: Group 14
+    400048: Group 141
+    400050: Group 143
+    400052: Group 145
+    400054: Group 146
+    400056: Group 148
+    400058: Group 150
+    400060: Group 152
+    400062: Group 154
+    400064: Group 156
+    400066: Group 157
+    400068: Group 159
+    400070: Group 16
+    400072: Group 161
+    400074: Group 163
+    400076: Group 165
+    400078: Group 166
+    400080: Group 168
+    400082: Group 170
+    400084: Group 172
+    400086: Group 174
+    400088: Group 176
+    400090: Group 178
+    400092: Group 18
+    400094: Group 180
+    400096: Group 182
+    400098: Group 184
+    400100: Group 186
+    400102: Group 188
+    400104: Group 190
+    400106: Group 192
+    400108: Group 194
+    400110: Group 196
+    400112: Group 198
+    400114: Group 20
+    400116: Group 200
+    400118: Group 202
+    400120: Group 204
+    400122: Group 206
+    400124: Group 208
+    400126: Group 210
+    400128: Group 212
+    400130: Group 214
+    400132: Group 216
+    400134: Group 218
+    400136: Group 22
+    400138: Group 220
+    400140: Group 222
+    400142: Group 224
+    400144: Group 226
+    400146: Group 228
+    400148: Group 230
+    400150: Group 24
+    400152: Group 26
+    400154: Group 28
+    400156: Group 30
+    400158: Group 32
+    400160: Group 34
+    400162: Group 36
+    400164: Group 38
+    400166: Group 40
+    400168: Group 42
+    400170: Group 44
+    400172: Group 46
+    400174: Group 48
+    400176: Group 50
+    400178: Group 52
+    400180: Group 54
+    400182: Group 56
+    400184: Group 58
+    400186: Group 6
+    400188: Group 60
+    400190: Group 62
+    400192: Group 64
+    400194: Group 66
+    400196: Group 68
+    400198: Group 70
+    400200: Group 72
+    400202: Group 74
+    400204: Group 76
+    400206: Group 78
+    400208: Group 8
+    400210: Group 80
+    400212: Group 82
+    400214: Group 84
+    400216: Group 86
+    400218: Group 88
+    400220: Group 90
+    400222: Group 92
+    400224: Group 94
+    400226: Group 96
+    400228: Group 98
+    400230: Komponent#1
+    400232: Komponent#1 1
+    400234: Komponent#1 2
+    400236: Komponent#1 3
+    400238: Komponent#1 4
+    400240: Location Terrain
+    400242: //RootNode
+    2100000: _defaultMat
+    2100002: _21
+    2100004: _17
+    2100006: _19
+    2100008: _23
+    2100010: _9
+    2100012: _6
+    2100014: _4
+    2100016: _7
+    2100018: _5
+    2100020: _12
+    2100022: _2
+    2100024: _8
+    2100026: _10
+    2100028: _11
+    2100030: _1
+    2100032: _13
+    2100034: _14
+    2100036: _16
+    2100038: _18
+    2100040: _20
+    2100042: _26
+    2100044: Location Snapshot
+    2100046: _22
+    2100048: _24
+    2100050: _28
+    2100052: _25
+    2100054: _30
+    2100056: _31
+    2100058: _41
+    2100060: _40
+    2100062: _43
+    2100064: _44
+    2100066: _42
+    2100068: _37
+    2100070: _38
+    2100072: _3
+    2100074: _15
+    2100076: _27
+    2100078: _29
+    2100080: _32
+    2100082: _33
+    2100084: _35
+    2100086: _34
+    2100088: _36
+    2100090: _39
+    2300000: Group 10
+    2300002: Group 100
+    2300004: Group 102
+    2300006: Group 104
+    2300008: Group 106
+    2300010: Group 108
+    2300012: Group 110
+    2300014: Group 112
+    2300016: Group 114
+    2300018: Group 116
+    2300020: Group 118
+    2300022: Group 12
+    2300024: Group 120
+    2300026: Group 122
+    2300028: Group 124
+    2300030: Group 126
+    2300032: Group 128
+    2300034: Group 130
+    2300036: Group 132
+    2300038: Group 134
+    2300040: Group 137
+    2300042: Group 139
+    2300044: Group 14
+    2300046: Group 141
+    2300048: Group 143
+    2300050: Group 146
+    2300052: Group 148
+    2300054: Group 150
+    2300056: Group 152
+    2300058: Group 154
+    2300060: Group 157
+    2300062: Group 159
+    2300064: Group 16
+    2300066: Group 161
+    2300068: Group 163
+    2300070: Group 166
+    2300072: Group 168
+    2300074: Group 170
+    2300076: Group 172
+    2300078: Group 174
+    2300080: Group 176
+    2300082: Group 178
+    2300084: Group 18
+    2300086: Group 180
+    2300088: Group 182
+    2300090: Group 184
+    2300092: Group 186
+    2300094: Group 188
+    2300096: Group 190
+    2300098: Group 192
+    2300100: Group 194
+    2300102: Group 196
+    2300104: Group 198
+    2300106: Group 20
+    2300108: Group 200
+    2300110: Group 202
+    2300112: Group 204
+    2300114: Group 206
+    2300116: Group 208
+    2300118: Group 210
+    2300120: Group 212
+    2300122: Group 214
+    2300124: Group 216
+    2300126: Group 218
+    2300128: Group 22
+    2300130: Group 220
+    2300132: Group 222
+    2300134: Group 224
+    2300136: Group 226
+    2300138: Group 228
+    2300140: Group 230
+    2300142: Group 24
+    2300144: Group 26
+    2300146: Group 28
+    2300148: Group 30
+    2300150: Group 32
+    2300152: Group 34
+    2300154: Group 36
+    2300156: Group 38
+    2300158: Group 40
+    2300160: Group 42
+    2300162: Group 44
+    2300164: Group 46
+    2300166: Group 48
+    2300168: Group 50
+    2300170: Group 52
+    2300172: Group 54
+    2300174: Group 56
+    2300176: Group 58
+    2300178: Group 6
+    2300180: Group 60
+    2300182: Group 62
+    2300184: Group 64
+    2300186: Group 66
+    2300188: Group 68
+    2300190: Group 70
+    2300192: Group 72
+    2300194: Group 74
+    2300196: Group 76
+    2300198: Group 78
+    2300200: Group 8
+    2300202: Group 80
+    2300204: Group 82
+    2300206: Group 84
+    2300208: Group 86
+    2300210: Group 88
+    2300212: Group 90
+    2300214: Group 92
+    2300216: Group 94
+    2300218: Group 96
+    2300220: Group 98
+    2300222: Komponent#1
+    2300224: Komponent#1 1
+    2300226: Komponent#1 2
+    2300228: Komponent#1 3
+    2300230: Komponent#1 4
+    2300232: Location Terrain
+    2300234: //RootNode
+    3300000: Group 10
+    3300002: Group 100
+    3300004: Group 102
+    3300006: Group 104
+    3300008: Group 106
+    3300010: Group 108
+    3300012: Group 110
+    3300014: Group 112
+    3300016: Group 114
+    3300018: Group 116
+    3300020: Group 118
+    3300022: Group 12
+    3300024: Group 120
+    3300026: Group 122
+    3300028: Group 124
+    3300030: Group 126
+    3300032: Group 128
+    3300034: Group 130
+    3300036: Group 132
+    3300038: Group 134
+    3300040: Group 137
+    3300042: Group 139
+    3300044: Group 14
+    3300046: Group 141
+    3300048: Group 143
+    3300050: Group 146
+    3300052: Group 148
+    3300054: Group 150
+    3300056: Group 152
+    3300058: Group 154
+    3300060: Group 157
+    3300062: Group 159
+    3300064: Group 16
+    3300066: Group 161
+    3300068: Group 163
+    3300070: Group 166
+    3300072: Group 168
+    3300074: Group 170
+    3300076: Group 172
+    3300078: Group 174
+    3300080: Group 176
+    3300082: Group 178
+    3300084: Group 18
+    3300086: Group 180
+    3300088: Group 182
+    3300090: Group 184
+    3300092: Group 186
+    3300094: Group 188
+    3300096: Group 190
+    3300098: Group 192
+    3300100: Group 194
+    3300102: Group 196
+    3300104: Group 198
+    3300106: Group 20
+    3300108: Group 200
+    3300110: Group 202
+    3300112: Group 204
+    3300114: Group 206
+    3300116: Group 208
+    3300118: Group 210
+    3300120: Group 212
+    3300122: Group 214
+    3300124: Group 216
+    3300126: Group 218
+    3300128: Group 22
+    3300130: Group 220
+    3300132: Group 222
+    3300134: Group 224
+    3300136: Group 226
+    3300138: Group 228
+    3300140: Group 230
+    3300142: Group 24
+    3300144: Group 26
+    3300146: Group 28
+    3300148: Group 30
+    3300150: Group 32
+    3300152: Group 34
+    3300154: Group 36
+    3300156: Group 38
+    3300158: Group 40
+    3300160: Group 42
+    3300162: Group 44
+    3300164: Group 46
+    3300166: Group 48
+    3300168: Group 50
+    3300170: Group 52
+    3300172: Group 54
+    3300174: Group 56
+    3300176: Group 58
+    3300178: Group 6
+    3300180: Group 60
+    3300182: Group 62
+    3300184: Group 64
+    3300186: Group 66
+    3300188: Group 68
+    3300190: Group 70
+    3300192: Group 72
+    3300194: Group 74
+    3300196: Group 76
+    3300198: Group 78
+    3300200: Group 8
+    3300202: Group 80
+    3300204: Group 82
+    3300206: Group 84
+    3300208: Group 86
+    3300210: Group 88
+    3300212: Group 90
+    3300214: Group 92
+    3300216: Group 94
+    3300218: Group 96
+    3300220: Group 98
+    3300222: Komponent#1
+    3300224: Komponent#1 1
+    3300226: Komponent#1 2
+    3300228: Komponent#1 3
+    3300230: Komponent#1 4
+    3300232: Location Terrain
+    3300234: //RootNode
+    4300000: "Mesh P\u0142ock+katedra (1)"
+    4300002: Mesh Location Terrain
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 18
+    4300010: Mesh Group 26
+    4300012: Mesh Group 28
+    4300014: Mesh Group 30
+    4300016: Mesh Group 32
+    4300018: Mesh Group 34
+    4300020: Mesh Group 36
+    4300022: Mesh Group 38
+    4300024: Mesh Group 40
+    4300026: Mesh Group 44
+    4300028: Mesh Group 46
+    4300030: Mesh Group 50
+    4300032: Mesh Group 68
+    4300034: Mesh Group 72
+    4300036: Mesh Group 106
+    4300038: Mesh Group 108
+    4300040: Mesh Group 110
+    4300042: Mesh Group 134
+    4300044: Mesh Group 137
+    4300046: Mesh Group 154
+    4300048: Mesh Group 174
+    4300050: Mesh Group 208
+    4300052: Mesh Komponent#1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Location Snapshot
+    second: {fileID: 2100000, guid: 52be8ce9dfe868c4db201de86cf94cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _1
+    second: {fileID: 2100000, guid: 129d36a407893cf41b315bcd6431090d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _10
+    second: {fileID: 2100000, guid: e336acaa03d9cc046a50649dc9e3a6ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _11
+    second: {fileID: 2100000, guid: be7116ab0d0029346b4789f4b329d3eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _12
+    second: {fileID: 2100000, guid: cd7cdcebbfb8e6249ab74a4623b0e847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _13
+    second: {fileID: 2100000, guid: 621791ce5ccbdff40a037f061c6869a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _14
+    second: {fileID: 2100000, guid: 8c012eb44c271c64496870deaa1edbc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _15
+    second: {fileID: 2100000, guid: 7ff7c22fbbea5fc40be73b0e6c24e02d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _16
+    second: {fileID: 2100000, guid: 138eef30e9a49b94d9adce25fe80c0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _17
+    second: {fileID: 2100000, guid: d6ea6c843b3ffdb4ca76d2acbf6e1312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _18
+    second: {fileID: 2100000, guid: e4bc46bff86021d4d8fcc855e33291b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _19
+    second: {fileID: 2100000, guid: 0527b08b2b40b0a40b6d555735e3fe72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _2
+    second: {fileID: 2100000, guid: 0320609402ee10743934fcc2ef99c321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _20
+    second: {fileID: 2100000, guid: 73e1c7bbe1ff2014a8b1f5ca9944681d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _21
+    second: {fileID: 2100000, guid: 3f25df23392ac684cbcd3dc4eb61bbb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _22
+    second: {fileID: 2100000, guid: 18512033d0dbcf74bb4d88105197b0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _23
+    second: {fileID: 2100000, guid: 15207bcea76965d46a6f0736a4440716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _24
+    second: {fileID: 2100000, guid: 5a1729f1d24aac543a485628701a7b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _25
+    second: {fileID: 2100000, guid: 105bb10fe2abe434c9b66dafc8675573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _26
+    second: {fileID: 2100000, guid: f0095a9b5907edb4d801a35562b3563c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _27
+    second: {fileID: 2100000, guid: c9a3cf215784047468f9271be2d4c6e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _28
+    second: {fileID: 2100000, guid: 2e539a0a844b1054e8f3e02869eef546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _29
+    second: {fileID: 2100000, guid: 9ec1730619e80394696ed1c88daca0cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2100000, guid: e882de462c8982f4aaebe98e5ffa57b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _30
+    second: {fileID: 2100000, guid: 5646076dfb8bff143b23cefca79aba9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _31
+    second: {fileID: 2100000, guid: e00b93e0f7e92e446ac0c16b5bdd462c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _32
+    second: {fileID: 2100000, guid: 67c5be6ff41c44e47a3c2958fe7871fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _33
+    second: {fileID: 2100000, guid: 83711c7c076be44489c3a453e63afbed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _34
+    second: {fileID: 2100000, guid: fd21e952a8ad6574ba49b14ff679ca80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _35
+    second: {fileID: 2100000, guid: ae502da8842028a4394767be9851bd96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _36
+    second: {fileID: 2100000, guid: 4547e9bca87f8ef40ba912b805503182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _37
+    second: {fileID: 2100000, guid: 199fc701219a0994eaa72e0293b2b711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _38
+    second: {fileID: 2100000, guid: 3ff4931101aa1d04389f19e42cd0bb35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _39
+    second: {fileID: 2100000, guid: eaefb2cbece47bd438bb98d33e5775f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _4
+    second: {fileID: 2100000, guid: 5c59d962f5a831346bff44d52af8ec3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _40
+    second: {fileID: 2100000, guid: 5c1e9987fe814ed4a815bd736f61aedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _41
+    second: {fileID: 2100000, guid: 575ed04d84886bc4890cc70af2f1dee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _42
+    second: {fileID: 2100000, guid: 06e38d9460e042344ad00255db5315a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _43
+    second: {fileID: 2100000, guid: eb925c65f77dc8745a42387ba16a28ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _44
+    second: {fileID: 2100000, guid: a5ee3bdc1db8de74b9d977b3cbe87513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _5
+    second: {fileID: 2100000, guid: 228553135df8a3c4cbe45e583f94bb91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _6
+    second: {fileID: 2100000, guid: 9a7fbc5f38dffc24babe488b4f485683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _7
+    second: {fileID: 2100000, guid: a19970f5fd7050d4c9acaa8c595bc1d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8
+    second: {fileID: 2100000, guid: 66707f83be9701a4cba6d73d84d9331e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _9
+    second: {fileID: 2100000, guid: e8d52ca26e616784c9ec47fd865d8f17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 35f1dae40c0d8a7469abcd152a0ffe6e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Location Snapshot
+    second: {fileID: 2800000, guid: 74627ec400e3b594ab5ddb1c9f02b8e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dach
+    second: {fileID: 2800000, guid: add12e8e0f7295c458e07629811ab8ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dwh
+    second: {fileID: 2800000, guid: b28ae05d6dcdf7c428e43a6ee7ce02a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f1
+    second: {fileID: 2800000, guid: fee8a82b8cabb0b438da80cf6dbdd440, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f2
+    second: {fileID: 2800000, guid: 73e9b96195ec37e43a7850b857dd1c2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f3
+    second: {fileID: 2800000, guid: 645bc133ae4d54b4699c52acccf97b09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: frg1
+    second: {fileID: 2800000, guid: c4223910655cf3d418fa427dc2ce1cd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: frg2
+    second: {fileID: 2800000, guid: 99c898d8f9b6b3c49a8e4b89debab222, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: frg3
+    second: {fileID: 2800000, guid: 5d873725bb716e14287cd3e0b3e97326, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gr
+    second: {fileID: 2800000, guid: 63509fc7ccc17154a91b11b9a2dfd88b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kka
+    second: {fileID: 2800000, guid: c0017a796407302409ac70a5df269e83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: klsl
+    second: {fileID: 2800000, guid: 560a3a0269013304a9d27ff62269d3c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kop hd
+    second: {fileID: 2800000, guid: 7b7522c27cd564444a35d780dd0df576, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kop hd1
+    second: {fileID: 2800000, guid: 1a6b6d57cf62b964c81d9c71ad64ae15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kop1
+    second: {fileID: 2800000, guid: 80165f7ed545b8f4b80d069a5ca2e43f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kopo
+    second: {fileID: 2800000, guid: f7508cbf8cfb6094aba86e120cc867db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nawa
+    second: {fileID: 2800000, guid: bde7a2eab452a6a48bc3523133014c20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nawa1
+    second: {fileID: 2800000, guid: 0378a43253fc3f946aa2fc38130061c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nawalg
+    second: {fileID: 2800000, guid: fd34a48f5b0a98d4eae0ebd4642d3449, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nbl
+    second: {fileID: 2800000, guid: 0ff1fe03526715a43b59a29245af9d0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nblg
+    second: {fileID: 2800000, guid: a95b5d1ce5f039d4080631d8f81a9d83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nblg1
+    second: {fileID: 2800000, guid: 3d571eb86fd388b42a9cca3fc4a3d2da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nblg2
+    second: {fileID: 2800000, guid: 0830e1ab686c6154987fa7d16f268134, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nblg3
+    second: {fileID: 2800000, guid: 48a679a902ec01a4bb311020184c0a2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nblg4
+    second: {fileID: 2800000, guid: 23fc89aa4f7ccf849be4be10527d5bba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nbp
+    second: {fileID: 2800000, guid: 715a63ebf7e5cd646b14eb0a4b90c149, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nbp1
+    second: {fileID: 2800000, guid: 8d9dbb5967b842c4ea56958b917df74c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nbpo
+    second: {fileID: 2800000, guid: b4a2617c3290dbd4a85e9027daa104e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: npp
+    second: {fileID: 2800000, guid: 395ee7dbbc6e0a347aa04d99554f9078, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nppt
+    second: {fileID: 2800000, guid: 2609bbee320ea6241bbfa089263aa405, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ow
+    second: {fileID: 2800000, guid: 2772cbce354534945b1c3ce644b3ff3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: prez
+    second: {fileID: 2800000, guid: 3798e34e3584cad41a76f21754f57062, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pw
+    second: {fileID: 2800000, guid: c4e698e137c5c2343ac82b675e33df12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sk
+    second: {fileID: 2800000, guid: 16704b07640e1ef4b99e32d1791b0591, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: we
+    second: {fileID: 2800000, guid: 26a1814017f67b84682fd1a083101a6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: we1
+    second: {fileID: 2800000, guid: c4cfb11a9ae6d2440bca584d601d60d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wkop
+    second: {fileID: 2800000, guid: ea2ff20cf9f853740954d58692e09db9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wll
+    second: {fileID: 2800000, guid: 2ff9f6bdc414fb647913e07cb56b6657, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wllg
+    second: {fileID: 2800000, guid: db3b3fe40521f4d41a72c252e85ddcd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wsk
+    second: {fileID: 2800000, guid: 02f469f8869884041b08659d76bf5568, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wsk1
+    second: {fileID: 2800000, guid: e6e9c219d2dec1d42b31420a3997491b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wso
+    second: {fileID: 2800000, guid: c9920923c644b3d42af0d7aad443d00a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wwep
+    second: {fileID: 2800000, guid: ac86fb70d2f33a94db5758d9020bd862, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wwsb
+    second: {fileID: 2800000, guid: 26bbd5edc1d752141bb992381310dff7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: x
+    second: {fileID: 2800000, guid: 7988157cdc4ff0048acaf1c9998ea457, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

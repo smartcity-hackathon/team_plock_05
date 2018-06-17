@@ -1,0 +1,580 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.689645767211914",
+					"52.54059298240779"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-06-22",
+				"endDate": "2018-06-24",
+				"name": "Dni Historii Płocka",
+				"place": "Wzgórze Tumskie, Stary Rynek, Amfiteatr",
+				"x": "19.689645767211914",
+				"y": "52.54059298240779",
+				"description": "Podczas Dni Historii Płocka, Wzgórze Tumskie i zamek zmieni się w średniowieczną arenę, na której  rycerze będą walczyć o miecz Bolesława III Krzywoustego, a damy dworu zatańczą do muzyki dawnej.\n Klimat obrzędów i legend średniowiecznych będzie można poczuć podczas spektaklu ogniowo-pirotechnicznego OPARZELISKO na Starym Rynku (23 czerwca, godz. 22:00).\n Ponadto w programie:\n - zwiedzanie m.in. Małachowianki, Muzeum Diecezjalnego i wejście na mury zamkowe (23 -24 czerwca),\n - PLOT zaprasza na spacer Średniowieczny Płock z przewodnikiem w ramach akcji „Odkryj z nami Płock” (23 czerwca, godz. 12.00)\n - Czytelnia pod Chmurką – III Ogólnopolski Zlot Miłośników „Cukierni pod Amorem” z udziałem autorki Małgorzaty Gutowskiej – Adamczyk (23 czerwca, godz. 11:00 – 16:00, Ogród Książnicy Płockiej),\n - Fame Dance Festiwal (23 czerwca, godz. 18:00 – 21.30, Amfiteatr) – *zaproszenia dostępne w Studio Tańca Fame oraz w Bileterii POKiS\n Szczegółowe informacje na plakatach, stronie internetowej.",
+				"price": "Bezpłatny",
+				"website": "http://www.pokis.pl/",
+				"graphics": "DniHistoriPlocka",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.686298370361328",
+					"52.54200241799645"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-06-24",
+				"endDate": "2018-06-24",
+				"name": "Wianki",
+				"place": "Amfiteatr",
+				"x": "19.686298370361328",
+				"y": "52.54200241799645",
+				"description": "W ramach Dni Historii Płocka odbędą się również tradycyjne Wianki.\n W tym roku gościem będzie Zespół Pieśni i Tańca „Śląsk” im Stanisława Hadyny, który zaprezentuje polskie tańce regionalne i narodowe w opracowaniu na chór, balet i orkiestrę.\n	Koncert uświetni również Zespół Pieśni i Tańca „Wisła” z premierowym widowiskiem „Noc Kupały”, które zakończy się tradycyjnym puszczaniem wianków na Wiśle.",
+				"price": "Bezpłatny (zaproszenia dostępne w Bileterii POKiS)",
+				"website": "http://www.pokis.pl/",
+				"graphics": "Wianki",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.685316681861877",
+					"52.544803210653505"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-06-24",
+				"endDate": "2018-06-24",
+				"name": "LOTTO Poland Bike Marathon",
+				"place": "Stary Rynek, ulice miasta",
+				"x": "19.685316681861877",
+				"y": "52.544803210653505",
+				"description": "Cykl rodzinnych maratonów rowerowych dla amatorów. Impreza sportowa skierowana do osób lubiących wyzwania, rywalizację i wysiłek fizyczny, dla rodzin i przyjaciół chcących aktywnie spędzić czas. W tym roku mnóstwo atrakcji: trzy trasy rowerowe: fan, mini i max, dla najmłodszych mini-cross Poland Bike, liczne konkursy z nagrodami, loteria, Chatka Małolatka, gry i zabawy.",
+				"price": "Wolny (opłata startowa)",
+				"website": "http://www.polandbike.pl/",
+				"graphics": "LOTTO",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.68192899987116",
+					"52.54560713478158"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-07-01",
+				"endDate": "2018-07-01",
+				"name": "XX Letni Festiwal Muzyczny",
+				"place": "Muzeum Mazowieckie",
+				"x": "19.68192899987116",
+				"y": "52.54560713478158",
+				"description": "Cykl koncertów symfonicznych i kameralnych w wykonaniu Płockiej Orkiestry Symfonicznej oraz zaproszonych gości.\n Przeboje srebrnego ekranu – inauguracja festiwalu z udziałem BOGNA BAND, muzyka z polskich filmów i seriali, takich jak „Polskie drogi”, „Vabank” czy „Noce i dnie”",
+				"price": "Bezpłatny",
+				"website": "-",
+				"graphics": "XXLetniFestivalMuzyczny",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.68651294708252",
+					"52.54325521164193"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-07-04",
+				"endDate": "2018-07-04",
+				"name": "XX Letni Festiwal Muzyczny",
+				"place": "Aula Małachowianki",
+				"x": "19.68651294708252",
+				"y": "52.54325521164193",
+				"description": "Cykl koncertów symfonicznych i kameralnych w wykonaniu Płockiej Orkiestry Symfonicznej oraz zaproszonych gości.\n Meandry Muzyki Cerkiewnej z udziałem Zespołu Muzyki Cerkiewnej KLIROS - kompozycje muzyki cerkiewnej śpiewanej w języku cerkiewnosłowiańskim ukazujące historyczny rozwój tego gatunku od średniowiecza do współczesności",
+				"price": "Bezpłatny",
+				"website": "-",
+				"graphics": "XXLetniFestivalMuzyczny",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.689372181892395",
+					"52.54105953669869"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-07-08",
+				"endDate": "2018-07-08",
+				"name": "XX Letni Festiwal Muzyczny",
+				"place": "Bazylika Katedralna",
+				"x": "19.689372181892395",
+				"y": "52.54105953669869",
+				"description": "Cykl koncertów symfonicznych i kameralnych w wykonaniu Płockiej Orkiestry Symfonicznej oraz zaproszonych gości.\n Najpiękniejsza Muzyka Polska w wykonaniu Mari Jaskulskiej-Chrenowicz z towarzyszeniem Płockiej Orkiestry Symfonicznej pod dyrekcją Jakuba Chrenowicza.",
+				"price": "Bezpłatny",
+				"website": "-",
+				"graphics": "XXLetniFestivalMuzyczny",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.684575318029715",
+					"52.544803210653505"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-06-29",
+				"endDate": "2018-07-01",
+				"name": "PGNIG Summer Superliga Płock",
+				"place": "Stary Rynek",
+				"x": "19.684575318029715",
+				"y": "52.545019894762106",
+				"description": "Zawody odbywają się w ramach Mistrzostw Polski oraz cyklu European Beach Handball Tour. W malowniczej scenerii płockiej starówki, najlepsze polskie drużyny żeńskie i męskie staną do walki w turnieju piłki ręcznej plażowej.",
+				"price": "Bezpłatny",
+				"website": "http://www.facebook.com/pgnig.summer.superliga/",
+				"graphics": "PGNIG",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.685316681861877",
+					"52.544803210653505"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-07-06",
+				"endDate": "2018-07-08",
+				"name": "Mistrzostwa Polski w Siatkówce Plażowej Mężczyzn",
+				"place": "Stary Rynek",
+				"x": "19.685316681861877",
+				"y": "52.544803210653505",
+				"description": "Na płockiej starówce odbędzie się turniej eliminacyjny Mistrzostw Polski w siatkówce plażowej mężczyzn. Czołowe polskie pary zmierzą się w drugiej edycji turnieju Beach Volleyball Płock 2018.",
+				"price": "Bezpłatny",
+				"website": "http://www.facebook.com/Beach-Volleyball-Płock-1362827477165085/",
+				"graphics": "SiatkowkaPlazowa",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.700653553009033",
+					"52.53672985289546"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-07-06",
+				"endDate": "2018-07-07",
+				"name": "Zoonoooc",
+				"place": "Miejski Ogród Zoologiczny",
+				"x": "19.700653553009033",
+				"y": "52.53672985289546",
+				"description": "Impreza dla amatorów nocnych przygód z dzikimi zwierzętami. W programie zwiedzanie ogrodu zoologicznego, niecodzienne pokazy z udziałem zwierząt, nocleg na terenie ZOO. Uczestnicy mają okazję wsłuchać się w nocne odgłosy i poczuć atmosferę przebywania po zmroku wśród dzikich zwierząt. Konkursy z nagrodami, ognisko oraz wiele innych atrakcji.",
+				"price": "Impreza biletowana",
+				"website": "http://www.zoo.plock.pl/",
+				"graphics": "Zoonoc",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.677835798849742",
+					"52.54454334567069"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-07-27",
+				"endDate": "2018-07-29",
+				"name": "Audioriver",
+				"place": "Plaża nad Wisłą, Stary Rynek, park przy Mostówce",
+				"x": "19.677835798849742",
+				"y": "52.54454334567069",
+				"description": "Jeden z najważniejszych festiwali muzycznych w Polsce ponownie na płockiej plaży. Audioriver łączy wiele światów, można tu zobaczyć najsłynniejszych na świecie reprezentantów house'u, techno i drum & bassu, jak i światowe gwiazdy elektroniki ocierającej się o pop, rock czy hip-hop. Ostatnia edycja zgromadziła 30 tys. osób. W tym roku listę gwiazd otwierają Amelie Lens, andhim, Ben Klock, Bonobo live, Catz ‘N Dogz, Claptone, Dr. Rubinstein, Fred V & Grafix, Giorgia Angiuli live, Gorgon City live, Honey Dijon, Jan Blomqvist & Band, John Talabot, Lee Burridge, Maceo Plex, Maribou Statet, Monolink live, Pan-Pot, Richie Hawtin CLOSE, Viken Arman live i wielu innych...",
+				"price": "Impreza biletowana",
+				"website": "http://www.audioriver.pl/",
+				"graphics": "Audioriver",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.677835798849742",
+					"52.54454334567069"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-08-02",
+				"endDate": "2018-08-04",
+				"name": "Polish Hip Hop Festival",
+				"place": "Plaża nad Wisłą",
+				"x": "19.677835798849742",
+				"y": "52.54454334567069",
+				"description": "Kultura hip-hopu w pełnym jej spektrum – tradycyjnie festiwal rozpoczną czwartkowe eliminacje do kultowej Płockiej Bitwy Freestyle, a w piątek i w sobotę na fanów czeka dawka najlepszych hip-hopowych dźwięków. Podczas kolejnej edycji festiwalu wystąpi 60 wykonawców. Tegoroczny line up otwierają m.in. Alltta (US/FR), Quebonafide, Paluch, KęKę, Sarius, Ten Typ Mes, Dwa Sławy, Białas / Bedoes, Mielzky, PLK (FR), Tede, O.S.T.R., Young Slash (IT), Otsochodzi i wielu innych.",
+				"price": "Impreza biletowana",
+				"website": "http://www.plhhfestival.pl/",
+				"graphics": "PolishHipHopFestival",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.674820995917003",
+					"52.54519580905321"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-08-10",
+				"endDate": "2018-08-10",
+				"name": "Disco nad Wisłą",
+				"place": "Plaża nad Wisłą",
+				"x": "19.674820995917003",
+				"y": "52.54519580905321",
+				"description": "Największe gwiazdy polskiej muzyki tanecznej ponownie spotkają się na płockiej plaży. Wystąpią m.in. Akcent, Sławomir, Piękni i Młodzi, Playboys, Bayera i wielu innych.",
+				"price": "Impreza biletowana",
+				"website": "http://www.facebook.com/disconadwisla",
+				"graphics": "DiscoNadWisla",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.67929226688352",
+					"52.54433616916247"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-08-11",
+				"endDate": "2018-08-11",
+				"name": "Płock Summer Night",
+				"place": "Plaża nad Wisłą",
+				"x": "19.67929226688352",
+				"y": "52.54433616916247",
+				"description": "Po raz pierwszy na płockiej plaży nad Wisłą wystąpią największe gwiazdy polskiej muzyki klubowej m.in. Gromee (Finalista konkursu Eurowizja 2018) oraz C-Bool.",
+				"price": "Impreza biletowana",
+				"website": "http://www.facebook.com/disconadwisla",
+				"graphics": "PlockSummerNight",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.685316681861877",
+					"52.544803210653505"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-08-18",
+				"endDate": "2018-08-18",
+				"name": "Rynek Sztuki",
+				"place": "Stary Rynek",
+				"x": "19.685316681861877",
+				"y": "52.544803210653505",
+				"description": "Rynek Sztuki to plenerowa, ale kameralna impreza o artystycznym charakterze, która łączy w harmonijną całość dźwięk, teatr i obraz. Podczas Rynku Sztuki można posłuchać polskich i zagranicznych muzyków eksperymentujących z dźwiękami, zobaczyć najlepsze teatry uliczne oraz obejrzeć pokazy kina plenerowego z muzyką na żywo.",
+				"price": "Bezpłatny",
+				"website": "http://www.facebook.com/ryneksztuki",
+				"graphics": "RynekSztuki",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.68574297956434",
+					"52.544515598406406"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-08-21",
+				"endDate": "2018-08-26",
+				"name": "Vistula Folk Festival",
+				"place": "Stary Rynek, Park Północny (Podolszyce Płn.), Amfiteatr",
+				"x": "19.68574297956434",
+				"y": "52.544515598406406",
+				"description": "Kilka lat temu grupa pasjonatów powróciła do tradycji organizowania w Płocku festiwali folklorystycznych, aby publiczność mogła cieszyć się barwnym folklorem, nawet z najdalszych zakątków świata oraz przypomnieć sobie stare zwyczaje, tańce i obrzędy. W imprezie uczestniczą zespoły z całego świata, Europy, Azji i Ameryki Północnej, oraz muzycy sięgający w swych utworach do korzeni – muzyki tradycyjnej. Do tej pory gościliśmy zespoły z takich krajów, jak Serbia, Słowacja, Indonezja, Hiszpania, Ukraina, Irlandia, Gruzja, Tajwan, Włochy, Meksyk czy Nowa Zelandia.",
+				"price": "Bezpłatny",
+				"website": "http://www.facebook.com/vistulafolkfestival",
+				"graphics": "VistulaFolkFestival",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.687800407409668",
+					"52.54320953750161"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-08-27",
+				"endDate": "2018-08-31",
+				"name": "Festiwal Rockowe Ogródki – Recording Live 2018",
+				"place": "Klub Rock '69",
+				"x": "19.687800407409668",
+				"y": "52.54320953750161",
+				"description": "Festiwal z ponad dwudziestoletnią tradycją. Po raz kolejny do Płocka zjadą uzdolnione zespoły rockowe z całej Polski. W ramach imprezy odbędą się warsztaty muzyczne i dźwiękowe. W tym roku festiwal odbędzie się w nowej formule – koncerty zostaną zarejestrowane na żywo, a następnie wydane w wersji analogowej i cyfrowej.",
+				"price": "Bezpłatny",
+				"website": "http://www.rockoweogrodki.com.pl/",
+				"graphics": "FestiwalRockoweOgrodki",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.68574297956434",
+					"52.544515598406406"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-09-16",
+				"endDate": "2018-09-16",
+				"name": "7. Półmaraton Dwóch Mostów",
+				"place": "Stary Rynek, ulice miasta",
+				"x": "19.68574297956434",
+				"y": "52.544515598406406",
+				"description": "Trasa siódmej edycji półmaratonu wytyczona jest po obu brzegach Wisły oraz prowadzi przez dwa płockie mosty. Zawodników czekają liczne podbiegi, zmiana nawierzchni, a przede wszystkim piękne widoki Wzgórza Tumskiego. W zeszłorocznym maratonie wystartowało około 700 biegaczy.",
+				"price": "Opłata startowa",
+				"website": "http://www.polmaraton.plock.eu/",
+				"graphics": "PolmaratonDwochMostow",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.677835798849742",
+					"52.54454334567069"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-09-01",
+				"endDate": "2018-09-01",
+				"name": "Summer Fall Festival",
+				"place": "Plaża nad Wisłą",
+				"x": "19.677835798849742",
+				"y": "52.54454334567069",
+				"description": "Na płocką plażę powraca rockowe pożegnanie lata.",
+				"price": "Impreza biletowana",
+				"website": "http://www.polmaraton.plock.eu/",
+				"graphics": "SummerFallFestival",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.698785450875448",
+					"52.53519532159342"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-09-15",
+				"endDate": "2018-09-15",
+				"name": "X Mistrzostwa Polski w Sprincie Wioślarskim XXXV Memoriał Juliusza Kawieckiego",
+				"place": "Plaża nad Wisłą",
+				"x": "19.698785450875448",
+				"y": "52.53519532159342",
+				"description": "W zawodach udział weźmie krajowa oraz światowa czołówka wioślarska.",
+				"price": "Bezpłatny",
+				"website": "http://www.ptwplock.eu/",
+				"graphics": "Wiosla",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.689372181892395",
+					"52.54105953669869"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-09-16",
+				"endDate": "2018-09-16",
+				"name": "Jubileusz XX-lecia Pueri Cantores Plocenses",
+				"place": "Bazylika Katedralna",
+				"x": "19.689372181892395",
+				"y": "52.54105953669869",
+				"description": "Zwieńczeniem jubileuszu będzie uroczysty koncert, podczas którego zostaną wykonane m.in. utwory G. F. Händla, Ch. Gounoda i F. Schuberta.",
+				"price": "Bezpłatny",
+				"website": "http://www.chorplock.pl/",
+				"graphics": "JubileuszPueriCantoresPlocenses",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.685316681861877",
+					"52.544803210653505"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-09-23",
+				"endDate": "2018-09-23",
+				"name": "Zamknięcie Sezonu Motocyklowego",
+				"place": "Stary Rynek",
+				"x": "19.685316681861877",
+				"y": "52.544803210653505",
+				"description": "Ryk silników, głośną muzykę i okrzyki publiczności można usłyszeć  podczas tej imprezy. Pokazy  i widowiskowe akrobacje przyciągają pasjonatów i amatorów jazdy na motocyklu. Nieodłącznym elementem imprezy jest przetaczająca się przez miasto parada motocykli.",
+				"price": "Bezpłatny",
+				"website": "http://www.plock.eu/",
+				"graphics": "ZSM",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.706536400000005",
+					"52.5463446"
+				]
+			},
+			"properties": {
+				"eventType": "Future",
+				"startDate": "2018-09-28",
+				"endDate": "2018-09-30",
+				"name": "Płock za pół ceny",
+				"place": "Miasto Płock",
+				"x": "19.706536400000005",
+				"y": "52.5463446",
+				"description": "Płock ponownie zaprasza turystów do skorzystania z atrakcji, jakie oferuje miasto z 50% rabatem. W akcję, po raz drugi, aktywnie włączą się hotele, restauracje, kawiarnie, puby, sklepy, usługi, instytucje kulturalne i sportowe oraz inne obiekty turystyczne.",
+				"price": "a",
+				"website": "http://www.plockzapolceny.pl/",
+				"graphics": "Polceny",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.689372181892395",
+					"52.54105953669869"
+				]
+			},
+			"properties": {
+				"eventType": "Past",
+				"startDate": "1130",
+				"endDate": "1144",
+				"name": "Wybudowanie katedry romańskiej",
+				"place": "",
+				"x": "19.689372181892395",
+				"y": "52.54105953669869",
+				"description": "Po utworzeniu diecezji w 1075 r. zbudowano pierwszy, całkowicie wykonany z drewna, kościół katedralny pod wezwaniem Wniebowzięcia Najświętszej Maryi Panny. Według „Kroniki” Galla Anonima był on miejscem pasowania Bolesława Krzywoustego na rycerza w 1099 r.",
+				"price": "",
+				"website": "",
+				"graphics": "Katedra",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.706536400000005",
+					"52.5463446"
+				]
+			},
+			"properties": {
+				"eventType": "Past",
+				"startDate": "1351",
+				"endDate": "1370",
+				"name": "Zwierzchnictwo Kazimierza Wielkiego",
+				"place": "",
+				"x": "19.706536400000005",
+				"y": "52.5463446",
+				"description": "W latach 1351-1370 król polski Kazimierz Wielki był jednocześnie księciem płockim. Powiększył teren miasta poprzez połączenie nowego miasta i części  starszego w jeden organizm i nadał mu prawo chełmińskie. Z inicjatywy króla na terenie grodu powstał nowy murowany zamek, otoczony podwójnym pasem murów obronnych i fosą, z wjazdem przez bramę w wieży szlacheckiej.",
+				"price": "",
+				"website": "",
+				"graphics": "Kazimierz",
+				"3DModels": "",
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.706536400000005",
+					"52.5463446"
+				]
+			},
+			"properties": {
+				"eventType": "Past",
+				"startDate": "1920",
+				"endDate": "1920",
+				"name": "Obrona Płocka podczas wojny polsko-bolszewickiej",
+				"place": "",
+				"x": "19.706536400000005",
+				"y": "52.5463446",
+				"description": "18-19 sierpnia 1920 miała miejsce 21-godzinna obrona miasta przed bolszewikami, którzy tu się skierowali po nieudanym ataku na Włocławek. W toku walk zginęło 250 osób, a 300 odniosło rany. 19 sierpnia oddziały polskie wyparły bolszewików z miasta.",
+				"price": "",
+				"website": "",
+				"graphics": "ObronaPlocka",
+				"3DModels": "",
+			}
+		}
+	]
+}

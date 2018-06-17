@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c4299b95bca3f8b4ea6ace28d8856ac2
+timeCreated: 1506593386
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Montserrat
+  fontNames:
+  - Montserrat
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33fa7fa344d04654b87f34f036c7f442, type: 3}
+  - {fileID: 12800000, guid: 1137b626a776e844ba67ea4e0a61dd00, type: 3}
+  - {fileID: 12800000, guid: 88d0de8657b6529449fd65d423f30337, type: 3}
+  - {fileID: 12800000, guid: 12bf2999906f3ad4fb560f388032a2fc, type: 3}
+  - {fileID: 12800000, guid: 8698d5f9b4ace294393d94fdcdb1f1ae, type: 3}
+  - {fileID: 12800000, guid: b671b54e2b25726498a14ccf829aba0b, type: 3}
+  - {fileID: 12800000, guid: b8fcc75f7cbda3b4a89a11dfe63ea3f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
